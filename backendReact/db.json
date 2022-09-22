@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ronaldo Barros",
+      "email": "ronaldobarros@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "José Barros Sobrinho",
+      "email": "ze_barros@gmail.com"
+    },
+    {
+      "name": "Jose das Couves",
+      "email": "josedascouves@gmail.com",
+      "id": 3
+    }
+  ]
+}
